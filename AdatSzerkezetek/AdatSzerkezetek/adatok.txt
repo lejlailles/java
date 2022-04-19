@@ -1,0 +1,8 @@
+Péter;Bp;33
+Pál;Bp;23
+Pál;Bp;55
+Pál;Vác;23
+Pisti;Érd;31
+Feri;Miskolc;45
+Xénia;Göd;23
+Gizi;Érd;19
